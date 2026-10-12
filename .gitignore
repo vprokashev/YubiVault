@@ -1,0 +1,5 @@
+/target/
+/vault/
+/.scratch/
+*.log
+/.idea/
